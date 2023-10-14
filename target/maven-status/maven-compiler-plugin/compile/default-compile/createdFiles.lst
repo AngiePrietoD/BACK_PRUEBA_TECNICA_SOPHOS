@@ -1,0 +1,5 @@
+com\example\BackPrueba\BackPruebaApplication.class
+com\example\BackPrueba\controllers\LoginController.class
+com\example\BackPrueba\models\dto\PersonDTO.class
+com\example\BackPrueba\models\dto\LoginDTO.class
+com\example\BackPrueba\models\dto\UserDTO.class
